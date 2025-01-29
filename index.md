@@ -7,3 +7,6 @@
 4) After the successul Pull Request and Merge-Commit, GitHub offered to DELETE
    this 'start-markdown' branch since it was empty now and had served its
    purpose.  Opted to delete, as recommended.
+
+5) Add an image to the Markdown file as follows:
+   ![Image of Yaktocat](https://octodex.github.com/images/surftocat.png)
