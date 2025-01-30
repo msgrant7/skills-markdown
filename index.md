@@ -7,7 +7,7 @@ Had to use Markdown Ref: [Getting started writing on github](https://github.com/
 2) Did a Pull Request to compare to existing 'main' branch in the repository.
 3) Did the 'Commit Changes' in order to Merge this updated file to 'main.'
 4) After the successul Pull Request and Merge-Commit, GitHub offered to DELETE
-   this 'start-markdown' branch since it was empty now and had served its
+   the 'start-markdown' branch since it was empty now and had served its
    purpose.  Opted to delete, as recommended.
 
 5) Added an image to the Markdown file as follows:
