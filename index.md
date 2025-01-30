@@ -11,7 +11,8 @@ Had to use Markdown Ref: [Getting started writing on github](https://github.com/
    purpose.  Opted to delete, as recommended.
 
 5) Added an image to the Markdown file as follows:
-   ![Image of Octa_Surfer](/assets/Octa_Surfer.png)
+ 
+   ![Image of Octacat_Surfer](/assets/Octacat_Surfer.png)
    <!-- ![Image of Yaktocat](https://octodex.github.com/images/surftocat.png) -->
 
 7) Learning nested lists:  
