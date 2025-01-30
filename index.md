@@ -15,7 +15,13 @@ Had to use Markdown Ref: [Getting started writing on github](https://github.com/
    ![Image of Octacat_Surfer](/assets/Octacat_Surfer.png)
    <!-- ![Image of Yaktocat](https://octodex.github.com/images/surftocat.png) -->
 
-7) Learning nested lists:  
-   Top list item
-     - 1st nested line
-        - 2nd nested line 
+   Also added an 'assets' folder to store my own uploaded (smaller) Octacat_Surfer image vs. getting an image from the web.  
+   - The 'assets' folder was first added to a temporary 'nested-lists-br' branch, which I deleted after merging the updated index.md file, AND the
+    new 'assets' folder, with the 'main' branch in this repository.
+    - Merge works for both files and folders.  Good!
+      
+7) Learning nested lists with multiple levels:
+     
+   A top-of-list item:  
+   - 1st level nested line
+        - 2nd level nested line 
